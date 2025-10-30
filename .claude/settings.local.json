@@ -4,7 +4,13 @@
       "Bash(git init:*)",
       "Bash(git config:*)",
       "Bash(git remote add:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Read(//c/Users/ninoc/OneDrive/Desktop/04_Golden_Pines_Master/10_Company_Operations/04 Standard Forms & Licensing/AFC GPINES New Employee Documents/**)",
+      "Read(//c/Users/ninoc/OneDrive/Desktop/04_Golden_Pines_Master/40_Daley/Employee Records/General Employee and Management Files/**)"
     ],
     "deny": [],
     "ask": []
