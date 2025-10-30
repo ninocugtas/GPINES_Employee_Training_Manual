@@ -261,3 +261,9 @@ GPINES_Employee_Training_Manual/
 - This manual will be used for new hire training going forward
 - Needs to be comprehensive enough for Michigan licensing compliance
 - Will be used for both self-study and potential live training
+- **PRIMARY RESIDENT POPULATION:** Seniors needing assistance with activities of daily living (ADLs)
+- **SPECIALIZATION:** Alzheimer's disease and dementia care (majority but not all residents)
+- **IMPORTANT:** Training must apply broadly to all senior care, not only dementia-specific
+- **CRITICAL REQUIREMENT:** All content must be sourced from factual, verifiable resources with citations
+- **STATE COMPLIANCE:** Must be able to cite sources if Michigan LARA requests verification
+- **CITATION FORMAT:** Each module must include comprehensive references and bibliography
